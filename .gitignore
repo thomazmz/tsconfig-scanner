@@ -1,0 +1,8 @@
+**/.DS_Store
+/node_modules
+/.volumes
+/.output
+/.code
+/.logs
+/build
+/todo
